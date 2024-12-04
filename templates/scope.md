@@ -9,7 +9,7 @@
 ## 2. Lines of Code (LoC)
 - **Requirement**: Total lines of code to be audited.
 - **Details**:
-  - **Total LoC**: 10,000
+  - **Total LoC**: 7,500
   - **Breakdown**:
     - `src/bridge/`: 5,000
     - `src/utils/`: 2,500
